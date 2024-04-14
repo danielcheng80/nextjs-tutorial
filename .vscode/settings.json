@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "path-intellisense.mappings": {
+    "/": "${workspaceRoot}/public"
+  }
+}
